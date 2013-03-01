@@ -1,4 +1,7 @@
-Titanium Mobile Tizen
-=====================
+# TideSDK-Blackberry
 
-Titanium Mobile Tizen is the Titanium platform support for the Open Source Tizen platform.
+Currently the starting point for TideSDK for Tizen on mobile devices.
+
+## Legal
+
+TideSDK is licensed under the Apache 2.0 license. See LICENSE for more details.
