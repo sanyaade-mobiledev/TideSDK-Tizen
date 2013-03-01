@@ -1,4 +1,4 @@
-# TideSDK-Blackberry
+# TideSDK-Tizen
 
 Currently the starting point for TideSDK for Tizen on mobile devices.
 
